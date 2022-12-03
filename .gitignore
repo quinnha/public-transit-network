@@ -3,4 +3,5 @@
 *.pyo
 __pycache__/
 .coverage
-Pipfile*
+Pipfile
+Pipfile.lock
